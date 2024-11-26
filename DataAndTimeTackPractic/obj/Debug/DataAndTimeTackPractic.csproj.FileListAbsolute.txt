@@ -1,0 +1,7 @@
+C:\Users\Алексей\Documents\GitHub\DataAndTimeTackPractic\bin\Debug\DataAndTimeTackPractic.exe.config
+C:\Users\Алексей\Documents\GitHub\DataAndTimeTackPractic\bin\Debug\DataAndTimeTackPractic.exe
+C:\Users\Алексей\Documents\GitHub\DataAndTimeTackPractic\bin\Debug\DataAndTimeTackPractic.pdb
+C:\Users\Алексей\Documents\GitHub\DataAndTimeTackPractic\obj\Debug\DataAndTimeTackPractic.csproj.AssemblyReference.cache
+C:\Users\Алексей\Documents\GitHub\DataAndTimeTackPractic\obj\Debug\DataAndTimeTackPractic.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Documents\GitHub\DataAndTimeTackPractic\obj\Debug\DataAndTimeTackPractic.exe
+C:\Users\Алексей\Documents\GitHub\DataAndTimeTackPractic\obj\Debug\DataAndTimeTackPractic.pdb
